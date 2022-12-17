@@ -1,0 +1,55 @@
+0:
+  Starting items: 57
+  Operation: new = old * 13
+  Test: 11
+  true: 3
+  false: 2
+
+1:
+  Starting items: 58, 93, 88, 81, 72, 73, 65
+  Operation: new = old + 2
+  Test: 7
+  true: 6
+  false: 7
+
+2:
+  Starting items: 65, 95
+  Operation: new = old + 6
+  Test: 13
+  true: 3
+  false: 5
+
+3:
+  Starting items: 58, 80, 81, 83
+  Operation: new = old * old
+  Test: 5
+  true: 4
+  false: 5
+
+4:
+  Starting items: 58, 89, 90, 96, 55
+  Operation: new = old + 3
+  Test: 3
+  true: 1
+  false: 7
+
+5:
+  Starting items: 66, 73, 87, 58, 62, 67
+  Operation: new = old * 7
+  Test: 17
+  true: 4
+  false: 1
+
+6:
+  Starting items: 85, 55, 89
+  Operation: new = old + 4
+  Test: 2
+  true: 2
+  false: 0
+
+7:
+  Starting items: 73, 80, 54, 94, 90, 52, 69, 58
+  Operation: new = old + 7
+  Test: 19
+  true: 6
+  false: 0
